@@ -1,0 +1,25 @@
+*{
+    margin : 0;
+    padding : 0;
+    box-sizing : border-box;
+}
+body{
+    background-image : url(@{[[@{/img/background.webp}]]})
+}
+.login-form{
+    display : flex;
+    justify-content : center;
+}
+.form{
+    display : flex;
+    margin-top : 100px;
+}
+h1{
+    font-family : arial;
+    margin-top : 400px;
+    margin-bottom : 100px;
+    text-align : center;
+    font-weight : 900;
+}
+.form-div{
+width:600px;}
